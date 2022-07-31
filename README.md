@@ -1,4 +1,4 @@
-### Hello World from JTHANA 👋
+### Hello World from Jay 👋
 
 ---
 
