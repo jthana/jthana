@@ -11,3 +11,5 @@
 ##### Interesting:
  - Golang
  - Rust
+ - Svelt
+ - Flutter
